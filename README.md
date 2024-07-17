@@ -55,6 +55,4 @@ O banco de dados precisa ser criado manualmente, as
 tabelas são criadas automaticamente.
 
 ## Autor
-- Kevin Souza Flor
-
-Linkedin: [Kevin Souza Flor](https://www.linkedin.com/in/kevin-souza-9252b9276/)
+- Cristian Rosseli
